@@ -167,3 +167,5 @@ datasets/
 outputs/
 logs/
 workspace/
+
+config/key.yaml
